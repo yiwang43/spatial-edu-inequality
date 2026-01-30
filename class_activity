@@ -1,0 +1,10 @@
+Yi and An (having ssh issue, not able to clone)
+We want to use fork and pull,
+Approach 1: Fork + Personal Branching
+Each contributor forks the upstream repo to their own GitHub account
+Contributors create feature branches within their personal fork
+Work happens locally, then each contributor pushes to the fork's feature branch
+Pull requests go from fork's branch to upstream's main
+MUST DO REGULARLY: sync fork with upstream before starting new work
+Pro: More control to each feature branch and main repo: mistakes stay in each contributor space
+Con: More commands to manage (fork sync + branch management)
