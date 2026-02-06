@@ -1,5 +1,5 @@
-MACS 30112 Final Project
-Yi Wang, An Nisa Astuti
+# MACS 30112 Final Project
+## Yi Wang, An Nisa Astuti
 RQ: How do differences in Chicago 311 service responsiveness and neighborhood conditions relate to CPS school outcomes across Chicago community areas?
 
 This repo contains data-collection pipelines. 
