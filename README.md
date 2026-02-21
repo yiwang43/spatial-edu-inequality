@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # MACS 30112 Final Project
 ## Group Member: Yi Wang, An Nisa Astuti
-=======
-# EDA: 5Essentials + 311 + CPS + ACS (Chicago Community Areas)
->>>>>>> 9e37288 (new changes)
 
 ## Project Description
 
@@ -27,7 +23,7 @@ At the current stage, the repo includes completed data pipelines for ACS and 311
 - **Chicago 311 Service Requests — City of Chicago Open Data**
   Retrieve: https://data.cityofchicago.org/
   Method: **API** (Socrata)
-  Request-level 311 data (2021–2025) is pulled and cleaned, then summarized into community_area × year × ward metrics including closure rates and time-to-close quantiles.
+  Request-level 311 data (2021–2025) is pulled and cleaned, then summarized into community_area and operational metrics including closure rates and time-to-close quantiles.
 
 - **Chicago Public Schools (CPS) Outcomes** *(placeholder — pending final merge)*
   Retrieve: https://www.cps.edu/
@@ -42,8 +38,6 @@ At the current stage, the repo includes completed data pipelines for ACS and 311
 
 ## Libraries
 
-| Library | Version |
-|------------|---------|
 | pandas | 3.0.0 |
 | numpy | 2.4.1 |
 | matplotlib | 3.10.8 |
@@ -56,20 +50,19 @@ At the current stage, the repo includes completed data pipelines for ACS and 311
 
 ## Repo Structure
 
-```
-├── data/
-│   ├── 311_2021_to_2025_clean.csv           # Cleaned request-level 311 data
-│   ├── 311_metrics.csv                      # Aggregated 311 metrics per community_area × year × ward
-│   │                                        # (n_requests, share_closed, median_ttc_hours, p75_ttc_hours)
-│   └── acs_community_area_ses_2020_2024.csv # Community-area SES measures from ACS (one row per area)
-│
-├── ACS_API.ipynb          # Pulls ACS 5-year variables via Census API, builds tract →
-│                          # community area crosswalk, writes acs_community_area_ses_2020_2024.csv
-├── api_311.ipynb          # Pulls 311 data via Socrata API, cleans date/area/ward fields,
-│                          # writes 311_2021_to_2025_clean.csv and 311_metrics.csv
-└── eda_analysis.ipynb     # Loads all cleaned outputs, runs descriptive stats, and produces
-                           # exploratory plots across ACS, 311, CPS, and 5Essentials data
-```
+
+├── README.md                        # Project overview, pipeline summary, data notes
+├── ACS_API.ipynb                    #Pulls ACS 5-year tract-level data via Census API, builds tract to community area crosswalk, and write acs_community_area_ses_2020_2024.csv to OneDrive
+│                                  builds tract to community area crosswalk, and writes acs_community_area_ses_2020_2024.csv to OneDrive
+│                                   
+├── api_311.ipynb                    # Pulls Chicago 311 data via Socrata API, cleans fields, computes request metrics, and writes
+│                  
+│                                    
+├── eda_analysis.ipynb               # Loads cleaned outputs from OneDrive (ACS + 311 + others),runs descriptive stats, and produces exploratory plots
+│                                  
+├── 5essentials_scraper_JSON.ipynb   # Scraper for 5Essentials data,
+│                                    
+└── MACS30112-Check-in-report_1.pdf  # Check-in report 1
 
 
 ## Contributions
