@@ -6,7 +6,7 @@
 This project investigates spatial inequality in Chicago by linking neighborhood socioeconomic conditions and city service responsiveness to school outcomes. We construct a community-area–level dataset covering all 77 Chicago community areas by merging four data sources: socioeconomic indicators from the American Community Survey (ACS), 311 service request metrics from the City of Chicago, and school-related measures from Chicago Public Schools (CPS) and the 5Essentials School Climate Survey.
 
 **Research Questions:**
-1. How does city service responsiveness (e.g., time-to-close 311 requests) vary across Chicago community areas?
+1. How does city service responsiveness vary across Chicago community areas?
 2. How are neighborhood socioeconomic conditions associated with that variation in 311 responsiveness?
 3. How do neighborhood conditions and 311 responsiveness jointly relate to school outcomes across community areas?
 
