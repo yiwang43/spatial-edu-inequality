@@ -56,7 +56,7 @@ At the current stage, the repo includes completed data pipelines for ACS and 311
 ├── eda_analysis.ipynb
 ├── 5essentials_scraper_JSON.ipynb
 └── MACS30112-Check-in-report_1.pdf
-```
+```text
 
 ## Contributions
 
