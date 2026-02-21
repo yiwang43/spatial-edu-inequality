@@ -50,20 +50,12 @@ At the current stage, the repo includes completed data pipelines for ACS and 311
 
 ## Repo Structure
 
-
-├── README.md                        # Project overview, pipeline summary, data notes
-├── ACS_API.ipynb                    #Pulls ACS 5-year tract-level data via Census API, builds tract to community area crosswalk, and write acs_community_area_ses_2020_2024.csv to OneDrive
-│                                  builds tract to community area crosswalk, and writes acs_community_area_ses_2020_2024.csv to OneDrive
-│                                   
-├── api_311.ipynb                    # Pulls Chicago 311 data via Socrata API, cleans fields, computes request metrics, and writes
-│                  
-│                                    
-├── eda_analysis.ipynb               # Loads cleaned outputs from OneDrive (ACS + 311 + others),runs descriptive stats, and produces exploratory plots
-│                                  
-├── 5essentials_scraper_JSON.ipynb   # Scraper for 5Essentials data,
-│                                    
-└── MACS30112-Check-in-report_1.pdf  # Check-in report 1
-
+├── README.md
+├── ACS_API.ipynb
+├── api_311.ipynb
+├── eda_analysis.ipynb
+├── 5essentials_scraper_JSON.ipynb
+└── MACS30112-Check-in-report_1.pdf
 
 ## Contributions
 
