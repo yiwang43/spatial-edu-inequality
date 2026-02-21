@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # MACS 30112 Final Project
 ## Group Member: Yi Wang, An Nisa Astuti
+=======
+# EDA: 5Essentials + 311 + CPS + ACS (Chicago Community Areas)
+>>>>>>> 9e37288 (new changes)
 
 ## Project Description
 
