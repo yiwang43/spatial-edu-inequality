@@ -41,7 +41,7 @@ All data are accessible via the project OneDrive: [https://uchicagoedu-my.sharep
 # Repository Structure
 
 ```text
-project/
+Spatial Inequality in Chicago/
 ├── data/
 │   ├── raw
         └── https://uchicagoedu-my.sharepoint.com/my?id=%2Fpersonal%2Fywang43%5Fuchicago%5Fedu%2FDocuments%2Fspatial%5Fedu%5Finequality&ga=1          
