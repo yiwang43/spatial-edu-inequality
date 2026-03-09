@@ -1,3 +1,0 @@
-Model,R-squared,Coefficient,P-value,Significant
-311 → Environment,0.0589,-0.008303,0.0358,Yes
-Environment → Attendance,0.1647,0.0733,0.0003,Yes
