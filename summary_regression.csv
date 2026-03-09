@@ -1,0 +1,3 @@
+Model,R²,p-value,Significant?
+311 → Environment,0.0589,0.0358,No
+Environment → Attendance,0.1647,0.0003,Yes
