@@ -1,6 +1,0 @@
-Relationship,r,Interpretation
-Environment ↔ Attendance,0.406,Moderate positive
-Poverty ↔ Attendance,-0.414,Moderate negative
-Poverty ↔ Environment,-0.289,Weak negative
-311 Response ↔ Environment,-0.243,Weak
-311 Response ↔ Poverty,0.018,None
