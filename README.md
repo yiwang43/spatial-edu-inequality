@@ -41,12 +41,29 @@ All data are accessible via the project OneDrive: [https://uchicagoedu-my.sharep
 # Repository Structure
 
 ```text
-├── README.md
-├── ACS_API.ipynb
-├── api_311.ipynb
-├── eda_analysis.ipynb
-├── 5essentials_scraper_JSON.ipynb
-└── MACS30112-Check-in-report_1.pdf
+project/
+├── data/
+│   ├── raw
+        └── https://uchicagoedu-my.sharepoint.com/my?id=%2Fpersonal%2Fywang43%5Fuchicago%5Fedu%2FDocuments%2Fspatial%5Fedu%5Finequality&ga=1          
+│   └── clean/
+│       └── final_merged_data.csv
+│
+├── code/
+│   ├── scraping/
+│   │   ├── 311_API.ipynb
+│   │   ├── ACS_API.ipynb
+│   │   └── 5essentials_scraper_JSON.ipynb
+│   ├── cleaning/
+│   │   └── crosswalk_and_merge.ipynb
+│   └── analysis/
+│       ├── eda_analysis.ipynb
+│       └── maps_spatial_analysis.ipynb
+│
+├── docs/
+│   ├── MACS30112-Check-in-report_1.pdf
+│   └── MACS30112-Check-in-report_2.pdf
+│
+└── README.md
 ```
 
 *Full structure to be updated for final submission.*
