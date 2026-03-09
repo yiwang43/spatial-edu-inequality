@@ -8,7 +8,7 @@
 
 This project explores spatial inequality in Chicago by linking neighborhood socioeconomic conditions and city service responsiveness to school outcomes across all 77 community areas.
 
-- **Topic**: Urban inequality — how neighborhood disadvantage and municipal service quality jointly shape educational outcomes at the community-area level
+- **Topic**: Urban inequality: how neighborhood disadvantage and municipal service quality jointly shape educational outcomes at the community-area level
 - **Research Questions**:
   1. How does city service responsiveness (via 311 requests) vary across Chicago community areas?
   2. How are neighborhood socioeconomic conditions associated with that variation in 311 responsiveness?
