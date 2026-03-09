@@ -114,4 +114,4 @@ Spatial Inequality in Chicago/
 
 - **Slides used in the in-class presentation**: *[https://docs.google.com/presentation/d/1AdrIZwXAAbU1cmelk-YZXIAh82JaIZDfu79rKRBCtO4/edit?usp=sharing]*
 - **Updated final slides (full version)**: *[(https://docs.google.com/presentation/d/1AdrIZwXAAbU1cmelk-YZXIAh82JaIZDfu79rKRBCtO4/edit?usp=sharing)]*
-- **Presentation video**: *[link]*
+- **Presentation video**: *[https://docs.google.com/presentation/d/18Ybuan_dNogiu0-gnRP2WECu4tGWBRXt/edit?slide=id.p1#slide=id.p1]*
