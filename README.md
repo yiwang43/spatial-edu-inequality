@@ -17,7 +17,7 @@ This project explores spatial inequality in Chicago by linking neighborhood soci
 
 ## Additional Info
 
-**Total lines of code**: *[insert count — use `find . -name "*.py" -o -name "*.ipynb" | xargs wc -l`]*
+**Total lines of code**: *7871*
 
 **Methods and Analysis**: The project constructs a community-area–level panel by merging ACS socioeconomic indicators, 311 service request metrics, CPS outcomes, and 5Essentials School Climate Survey data. Analysis includes descriptive spatial EDA, responsiveness metrics aggregated to community areas, and multivariate modeling of school outcomes.
 
