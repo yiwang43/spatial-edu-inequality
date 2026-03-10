@@ -27,6 +27,7 @@ This project explores spatial inequality in Chicago by linking neighborhood soci
 
 # Data
 
+Due to github file size, all the raw data are in the OneDrive link.
 All data are accessible via the project OneDrive: [https://uchicagoedu-my.sharepoint.com/:f:/g/personal/ywang43_uchicago_edu/IgAhDqWs-A2xT7V2VShzdldrAXUrl4DsXYImh5FxN1RDwuw?e=bE9Cea](https://uchicagoedu-my.sharepoint.com/:f:/g/personal/ywang43_uchicago_edu/IgAhDqWs-A2xT7V2VShzdldrAXUrl4DsXYImh5FxN1RDwuw?e=bE9Cea)
 
 | Source | Collection Method | Notes |
