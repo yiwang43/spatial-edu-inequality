@@ -104,13 +104,11 @@ Spatial Inequality in Chicago/
 
 ---
 
-# AI Usage Statement
-
 # AI Disclosure
 
-**Tools used:** ChatGPT & Claude
+**Tools used:** ChatGPT (OpenAI)
 
-| Notebook |
+| Notebook / Script | How AI Was Used |
 |---|---|
 | 311 Data Collection | Used ChatGPT to learn the Socrata API documentation, understand pseudo code for query construction, set pagination parameters, and troubleshoot HTTP/API errors. All final implementation written by author. |
 | ACS API (2020–2024) | Used ChatGPT to learn the `geopandas` library, specifically CRS transformations, computing tract centroids, and performing spatial joins via `geopandas.sjoin` to map ACS tracts to Chicago community areas. All analytical decisions written by author. |
