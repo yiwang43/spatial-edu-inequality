@@ -74,12 +74,15 @@ Spatial Inequality in Chicago/
 
 | Library | Version |
 |---------|---------|
-| pandas | 3.0.0 |
-| numpy | 2.4.1 |
+| pandas | 3.0.1 |
+| numpy | 2.4.2 |
 | matplotlib | 3.10.8 |
+| seaborn | 0.13.2 |
 | requests | 2.32.5 |
 | beautifulsoup4 (bs4) | 4.14.3 |
 | geopandas | 1.1.2 |
+| geopy | 2.4.1 |
+| statmodels | 0.14.6 |
 | shapely | 2.1.2 |
 | pyogrio | 0.12.1 |
 
