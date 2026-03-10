@@ -74,12 +74,15 @@ Spatial Inequality in Chicago/
 
 | Library | Version |
 |---------|---------|
-| pandas | 3.0.0 |
-| numpy | 2.4.1 |
+| pandas | 3.0.1 |
+| numpy | 2.4.2 |
 | matplotlib | 3.10.8 |
+| seaborn | 0.13.2 |
 | requests | 2.32.5 |
 | beautifulsoup4 (bs4) | 4.14.3 |
 | geopandas | 1.1.2 |
+| geopy | 2.4.1 |
+| statmodels | 0.14.6 |
 | shapely | 2.1.2 |
 | pyogrio | 0.12.1 |
 
@@ -96,7 +99,7 @@ Spatial Inequality in Chicago/
 
 - **An Nisa Astuti**
   1. Maintained 5Essentials web scraping and raw data outputs (`5essentials_scraper_JSON.ipynb`)
-  2. Cleaned school data (5Essentials, CPS community area, ISBE report card) and computed outcome metrics
+  2. Cleaned school data (5Essentials, CPS community area) and computed outcome metrics
   3. Aggregated school measures to community areas and produced the merge-ready school outcomes table
   4. Built choropleth visualizations by community area for school climate measures
   5. Merged 311, ACS, and school data on community area
