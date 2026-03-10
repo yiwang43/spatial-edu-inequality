@@ -116,7 +116,7 @@ Spatial Inequality in Chicago/
 | EDA — Final Merged Dataset | Used AI to assist with visualization formatting, including figure sizing, color scale selection, and annotation formatting. All analytical decisions, interpretations, and code logic written by authors. |
 | Spatial Analysis & Choropleth Maps | Used AI for visualization formatting and parameter tuning, and to learn `geopandas` library syntax. All analytical decisions, interpretations, and final code written by author. |
 
-> AI was not used to make analytical or interpretive decisions in any notebook. No AI-generated code was used without review and modification by the authors.
+> AI was not used to make analytical or interpretive decisions in any notebook.
 
 ---
 
