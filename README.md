@@ -13,7 +13,7 @@ This project explores spatial inequality in Chicago by linking neighborhood soci
   1. How does city service responsiveness (via 311 requests) vary across Chicago community areas?
   2. How are neighborhood socioeconomic conditions associated with that variation in 311 responsiveness?
   3. How do neighborhood conditions and 311 responsiveness jointly relate to school outcomes across community areas?
-- **Why it matters**: Understanding whether city services systematically underperform in disadvantaged neighborhoods — and whether that gap compounds worse school outcomes — has direct implications for equity-focused urban policy and resource allocation.
+- **Why it matters**: Understanding whether city services systematically underperform in disadvantaged neighborhoods, and whether that gap compounds worse school outcomes has direct implications for equity-focused urban policy and resource allocation.
 
 ## Additional Info
 
@@ -66,8 +66,6 @@ Spatial Inequality in Chicago/
 └── README.md
 ```
 
-*Full structure to be updated for final submission.*
-
 ---
 
 # Libraries
@@ -96,6 +94,8 @@ Spatial Inequality in Chicago/
   3. Aggregated 311 measures to community area and produced the merge-ready 311 metrics table
   4. Built the neighborhood disadvantage table aligned to community area using ACS data (`ACS_API.ipynb`), producing a merge-ready disadvantage table
   5. Contributed to EDA (`eda_analysis.ipynb`)
+  6. Building presentation slides
+  7. Core focus area (`maps_spatial_analysis.ipynb`)
 
 - **An Nisa Astuti**
   1. Maintained 5Essentials web scraping and raw data outputs (`5essentials_scraper_JSON.ipynb`)
@@ -104,6 +104,8 @@ Spatial Inequality in Chicago/
   4. Built choropleth visualizations by community area for school climate measures
   5. Merged 311, ACS, and school data on community area
   6. Contributed to EDA (`eda_analysis.ipynb`)
+  7. Statistical test on merged data
+  8. Building presentation slides
 
 ---
 
