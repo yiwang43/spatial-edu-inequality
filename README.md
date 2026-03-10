@@ -129,5 +129,5 @@ Spatial Inequality in Chicago/
 # Project Links
 
 - **Slides used in the in-class presentation**:  *[https://docs.google.com/presentation/d/18Ybuan_dNogiu0-gnRP2WECu4tGWBRXt/edit?slide=id.p1#slide=id.p1]*
-- **Updated final slides (full version)**: *[(https://docs.google.com/presentation/d/1AdrIZwXAAbU1cmelk-YZXIAh82JaIZDfu79rKRBCtO4/edit?usp=sharing)]*
-- **Presentation video**: *link*
+- **Updated final slides (full version)**: *[https://docs.google.com/presentation/d/1AdrIZwXAAbU1cmelk-YZXIAh82JaIZDfu79rKRBCtO4/edit?usp=sharing]*
+- **Presentation video**: *[https://uchicagoedu-my.sharepoint.com/:f:/g/personal/ywang43_uchicago_edu/IgC7pfQWgkYXSIZmsERGgjxPARQKWJcO_chrW9xippm9-vk?e=DAP6ve]*
