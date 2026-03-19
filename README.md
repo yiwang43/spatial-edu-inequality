@@ -107,27 +107,9 @@ Spatial Inequality in Chicago/
   6. Contributed to EDA (`eda_analysis.ipynb`)
   7. Statistical test on merged data
   8. Building presentation slides
-
----
-
-# AI Disclosure
-
-**Tools used:** ChatGPT (OpenAI)
-
-| Notebook / Script | How AI Was Used |
-|---|---|
-| 311 Data Collection | Used ChatGPT to learn the Socrata API documentation, understand pseudo code for query construction, set pagination parameters, and troubleshoot HTTP/API errors. All final implementation written by author. |
-| ACS API (2020–2024) | Used ChatGPT to learn the `geopandas` library, specifically CRS transformations, computing tract centroids, and performing spatial joins via `geopandas.sjoin` to map ACS tracts to Chicago community areas. All analytical decisions written by author. |
-| 5Essentials Scraping | Used ChatGPT to explore Selenium-based scraping approaches after initial BeautifulSoup attempts returned empty results. AI helped identify that data was embedded as static JSON in `<script id="app_data">` tags; extraction logic was written by author. |
-| EDA — Final Merged Dataset | Used AI to assist with visualization formatting, including figure sizing, color scale selection, and annotation formatting. All analytical decisions, interpretations, and code logic written by authors. |
-| Spatial Analysis & Choropleth Maps | Used AI for visualization formatting and parameter tuning, and to learn `geopandas` library syntax. All analytical decisions, interpretations, and final code written by author. |
-
-> AI was not used to make analytical or interpretive decisions in any notebook.
-
+  
 ---
 
 # Project Links
-
-- **Slides used in the in-class presentation**:  *[https://docs.google.com/presentation/d/18Ybuan_dNogiu0-gnRP2WECu4tGWBRXt/edit?slide=id.p1#slide=id.p1]*
-- **Updated final slides (full version)**: *[https://docs.google.com/presentation/d/1AdrIZwXAAbU1cmelk-YZXIAh82JaIZDfu79rKRBCtO4/edit?usp=sharing]*
+- **Updated final slides**: *[https://docs.google.com/presentation/d/1AdrIZwXAAbU1cmelk-YZXIAh82JaIZDfu79rKRBCtO4/edit?usp=sharing]*
 - **Presentation video**: *[https://uchicagoedu-my.sharepoint.com/:f:/g/personal/ywang43_uchicago_edu/IgC7pfQWgkYXSIZmsERGgjxPARQKWJcO_chrW9xippm9-vk?e=DAP6ve]*
